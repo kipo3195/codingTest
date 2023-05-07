@@ -1,4 +1,4 @@
-package codingTest.practice202304;
+package codingTest.test202304;
 
 import java.util.Random;
 import java.util.Scanner;
