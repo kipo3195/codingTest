@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class TestMain1 {
 
+	/* [2023.05.03] 백준 - 10988 */
+	
 	public static void main(String args[]) {
 		
 		Scanner sc = new Scanner(System.in);
