@@ -19,3 +19,9 @@
 [2023.05.09]
 	1. BinarySearchX
 		1) 배열 내 동일한 데이터가 있을때 가장 앞의 index 를 찾는 프로그램 117p
+		
+[2023.05.14]
+	1. GreatesCommonDivisorByArray
+		1) 배열에 있는 모든 요소의 최대 공약수 구하기
+		
+		
